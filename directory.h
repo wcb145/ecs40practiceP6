@@ -5,7 +5,7 @@
 #include "permissions.h"
 #include "Time.h"
 #include "list.h"
-//#inlcude "file.h"
+#include "file.h"
 using namespace std;
 
 class Directory  

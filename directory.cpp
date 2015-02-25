@@ -4,7 +4,7 @@
 #include "directory.h"
 #include "permissions.h"
 #include "list.h"
-//#inlcude "file.h"
+#include "file.h"
 
 using namespace std;
 
